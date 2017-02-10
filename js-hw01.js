@@ -67,3 +67,6 @@ function min(a, b) {
 
 console.log(min(0, 10));
 console.log(min(-20, -40));
+
+
+a += (x) ? "1" : "2";
